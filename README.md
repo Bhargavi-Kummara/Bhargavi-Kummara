@@ -1,16 +1,21 @@
-### Hi there 👋
+![](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-Kummara.Bhargavi-Kummara)
 
-<!--
-**Bhargavi-Kummara/Bhargavi-Kummara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I am Bhargavi 👋
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Automation with Python and Power Query
+- :cloud: I'm a Google Cloud Certified Associate Cloud Engineer
+- :bulb: I'm interested in all things about data: **Big Data, Cloud, Data Science and Machine Learning** 
+- 👯 I’m looking to collaborate on projects around my interests
+- :apple: Beginner mindset (**always open to learning**)
+- 😄 Pronouns: she/her
+<hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My skills include:
+
+<img align="left" alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/ios/2x/sql.png" />
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/2x/google-cloud.png" />
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/fluency/2x/java-coffee-cup-logo.png" />
+
+

@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-Kummara.Bhargavi-Kummara)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-Kummara.Bhargavi-Kummara) -->
 
 ### Hi there, I am Bhargavi 👋
 

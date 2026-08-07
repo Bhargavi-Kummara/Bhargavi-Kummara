@@ -2,9 +2,9 @@
 
 ### Hi there, I am Bhargavi 👋
 
-- 🌱 I’m currently learning Automation with Python and Power Query
-- :cloud: I'm a Google Cloud Certified Associate Cloud Engineer
-- :bulb: I'm interested in all things about data: **Big Data, Cloud, Data Science and Machine Learning** 
+- 🌱 I’m currently learning PySpark
+- :cloud: I'm a Google Cloud Certified Professional Data Engineer
+- :bulb: I'm interested in all things about data: **Big Data, Cloud, and Data Science** 
 - 👯 I’m looking to collaborate on projects around my interests
 - :apple: Beginner mindset (**always open to learning**)
 - 😄 Pronouns: she/her
